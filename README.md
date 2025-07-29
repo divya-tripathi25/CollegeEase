@@ -3,6 +3,7 @@
 A web-based application to digitize college canteen operations. Students can browse vendor menus, rate food, give feedback, and (in future) pay online.
 
 🚀 Features
+
 🔐 Secure JWT-based login system for students and vendors
 
 📍 Vendor discovery through interactive listings
@@ -20,6 +21,7 @@ A web-based application to digitize college canteen operations. Students can bro
 🌐 Fully responsive web interface using React.js
 
 🛠️ Tech Stack
+
 Frontend: React.js, HTML, CSS, JavaScript
 
 Backend: Node.js, Express.js
@@ -33,6 +35,7 @@ Email Feedback: SMTP or Email API (e.g., Nodemailer)
 Future Enhancements: Payment gateway integration, offline access, multilingual support
 
 📌 Project Goals
+
 Eliminate manual order-taking and long queues
 
 Provide transparent food quality ratings
